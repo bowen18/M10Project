@@ -826,3 +826,70 @@ Recommended: 516.25
 [2023.01.11-19.06.37:595][148]LogContentValidation: Display: Validating Material /Game/Bowen/phong2.phong2
 [2023.01.11-19.06.37:595][148]LogContentValidation: Display: Validating StaticMesh /Game/Bowen/nokia.nokia
 [2023.01.11-19.06.37:599][148]LogAutomationController: Ignoring very large delta of 3.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.07.26:579][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.11-19.07.55:138][743]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/xj577/OneDrive/Desktop/Death room/heal canister.fbx)
+[2023.01.11-19.07.55:145][743]LogFbx: Loading FBX Scene from ../../../../../../Users/xj577/OneDrive/Desktop/Death room/heal canister.fbx
+[2023.01.11-19.07.55:151][743]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.11-19.07.57:183][743]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.11-19.07.57:198][743]LogFbx: Display: Triangulating static mesh Glass
+[2023.01.11-19.07.57:199][743]LogStaticMesh: Display: Building static mesh heal_canister_Glass...
+[2023.01.11-19.07.57:204][743]LogStaticMesh: Built static mesh [0.00s] /Game/Bowen/heal_canister_Glass.heal_canister_Glass
+[2023.01.11-19.07.57:211][743]LogFbx: Display: Triangulating static mesh Lid
+[2023.01.11-19.07.57:233][743]LogStaticMesh: Display: Building static mesh heal_canister_Lid...
+[2023.01.11-19.07.57:248][743]LogStaticMesh: Built static mesh [0.02s] /Game/Bowen/heal_canister_Lid.heal_canister_Lid
+[2023.01.11-19.07.57:258][743]LogFbx: Display: Triangulating static mesh Health_plus
+[2023.01.11-19.07.57:267][743]LogStaticMesh: Display: Building static mesh heal_canister_Health_plus...
+[2023.01.11-19.07.57:275][743]LogStaticMesh: Built static mesh [0.01s] /Game/Bowen/heal_canister_Health_plus.heal_canister_Health_plus
+[2023.01.11-19.07.57:281][743]LogFbx: Display: Triangulating static mesh Health_plus1
+[2023.01.11-19.07.57:290][743]LogStaticMesh: Display: Building static mesh heal_canister_Health_plus1...
+[2023.01.11-19.07.57:298][743]LogStaticMesh: Built static mesh [0.01s] /Game/Bowen/heal_canister_Health_plus1.heal_canister_Health_plus1
+[2023.01.11-19.07.57:303][743]LogFbx: Display: Triangulating static mesh Health_plus2
+[2023.01.11-19.07.57:313][743]LogStaticMesh: Display: Building static mesh heal_canister_Health_plus2...
+[2023.01.11-19.07.57:320][743]LogStaticMesh: Built static mesh [0.01s] /Game/Bowen/heal_canister_Health_plus2.heal_canister_Health_plus2
+[2023.01.11-19.07.57:368][743]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.11-19.07.57:454][743]LogAutomationController: Ignoring very large delta of 6.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.08.03:312][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.08.03:316][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.08.11:668][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.11-19.08.13:092][577]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.11-19.08.13:104][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.11-19.08.13:110][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.11-19.08.13:115][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.01.11-19.13.05:321][ 83]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/xj577/OneDrive/Desktop/Death room/heal canister.fbx)
+[2023.01.11-19.13.05:327][ 83]LogFbx: Loading FBX Scene from ../../../../../../Users/xj577/OneDrive/Desktop/Death room/heal canister.fbx
+[2023.01.11-19.13.05:332][ 83]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.11-19.13.06:715][ 83]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.11-19.13.06:731][ 83]LogFbx: Display: Triangulating static mesh Health_plus3
+[2023.01.11-19.13.06:781][ 83]LogStaticMesh: Display: Building static mesh heal_canister...
+[2023.01.11-19.13.06:807][ 83]LogStaticMesh: Built static mesh [0.03s] /Game/Bowen/heal_canister.heal_canister
+[2023.01.11-19.13.06:811][ 83]LogStaticMesh: Warning: heal_canister has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.11-19.13.06:811][ 83]LogStaticMesh: Warning: heal_canister has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.11-19.13.06:819][ 83]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.11-19.13.06:819][ 83]FBXImport: Warning: heal_canister has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.11-19.13.06:819][ 83]FBXImport: Warning: heal_canister has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.11-19.13.06:909][ 83]LogAutomationController: Ignoring very large delta of 4.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.13.11:892][372]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.13.11:896][372]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.15.10:128][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.11-19.15.10:129][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bowen/Bowen' took 0.007
+[2023.01.11-19.15.10:129][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bowen/heal_canister] ([1] browsable assets)...
+[2023.01.11-19.15.10:191][727]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Bowen/heal_canister.heal_canister]
+[2023.01.11-19.15.10:191][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bowen/heal_canister]
+[2023.01.11-19.15.10:198][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bowen/heal_canister_Auto1
+[2023.01.11-19.15.10:198][727]LogSavePackage: Moving '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/heal_canister_Auto19891279946327858903CC2A0345D5BF2.tmp' to '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/Autosaves/Game/Bowen/heal_canister_Auto1.uasset'
+[2023.01.11-19.15.10:199][727]LogFileHelpers: Auto-saving content packages took 0.070
+[2023.01.11-19.15.21:510][872]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/xj577/OneDrive/Desktop/Death room/gun.fbx)
+[2023.01.11-19.15.21:516][872]LogFbx: Loading FBX Scene from ../../../../../../Users/xj577/OneDrive/Desktop/Death room/gun.fbx
+[2023.01.11-19.15.21:523][872]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.11-19.15.22:587][872]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.11-19.15.22:601][872]LogFbx: Display: Triangulating static mesh gun1
+[2023.01.11-19.15.22:665][872]LogStaticMesh: Display: Building static mesh gun...
+[2023.01.11-19.15.22:710][872]LogStaticMesh: Built static mesh [0.05s] /Game/Bowen/gun.gun
+[2023.01.11-19.15.22:715][872]LogStaticMesh: Warning: gun has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.11-19.15.22:715][872]LogStaticMesh: Warning: gun has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.11-19.15.22:724][872]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.11-19.15.22:724][872]FBXImport: Warning: gun has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.11-19.15.22:724][872]FBXImport: Warning: gun has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.11-19.15.22:814][872]LogAutomationController: Ignoring very large delta of 5.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.15.24:807][982]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.15.24:810][982]LogSlate: Window 'Message Log' being destroyed
