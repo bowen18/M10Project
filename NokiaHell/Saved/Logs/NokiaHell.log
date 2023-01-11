@@ -893,3 +893,62 @@ Recommended: 516.25
 [2023.01.11-19.15.22:814][872]LogAutomationController: Ignoring very large delta of 5.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.01.11-19.15.24:807][982]LogSlate: Window 'Message Log' being destroyed
 [2023.01.11-19.15.24:810][982]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.16.32:054][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowen/Bowen" FILE="../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/Bowen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.11-19.16.32:061][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.11-19.16.32:072][563]LogSavePackage: Moving output files for package: /Game/Bowen/Bowen
+[2023.01.11-19.16.32:072][563]LogSavePackage: Moving '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/BowenEE1132A848FF19D768BE14B10DDB6989.tmp' to '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/Bowen.umap'
+[2023.01.11-19.16.32:096][563]AssetCheck: New page: Asset Save: Bowen
+[2023.01.11-19.16.32:096][563]LogContentValidation: Display: Validating World /Game/Bowen/Bowen.Bowen
+[2023.01.11-19.16.34:139][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.11-19.16.34:233][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowen/heal_canister" FILE="../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/heal_canister.uasset" SILENT=true
+[2023.01.11-19.16.34:241][673]LogSavePackage: Moving output files for package: /Game/Bowen/heal_canister
+[2023.01.11-19.16.34:241][673]LogSavePackage: Moving '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/heal_canister944F4BC742B6A45F159DDAA7C62E50BE.tmp' to '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/heal_canister.uasset'
+[2023.01.11-19.16.34:272][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowen/gun" FILE="../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/gun.uasset" SILENT=true
+[2023.01.11-19.16.34:281][673]LogSavePackage: Moving output files for package: /Game/Bowen/gun
+[2023.01.11-19.16.34:281][673]LogSavePackage: Moving '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/gun2468AAB9449947845FB1F99E906E6969.tmp' to '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/gun.uasset'
+[2023.01.11-19.16.34:293][673]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.11-19.16.34:293][673]LogContentValidation: Display: Validating StaticMesh /Game/Bowen/gun.gun
+[2023.01.11-19.16.34:293][673]LogContentValidation: Display: Validating StaticMesh /Game/Bowen/heal_canister.heal_canister
+[2023.01.11-19.29.48:290][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.11-19.31.08:998][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.11-19.32.56:462][364]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/xj577/OneDrive/Desktop/Death room/Blank canister.fbx)
+[2023.01.11-19.32.56:470][364]LogFbx: Loading FBX Scene from ../../../../../../Users/xj577/OneDrive/Desktop/Death room/Blank canister.fbx
+[2023.01.11-19.32.56:474][364]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.11-19.32.57:800][364]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.11-19.32.57:813][364]LogFbx: Display: Triangulating static mesh Glass
+[2023.01.11-19.32.57:815][364]LogStaticMesh: Display: Building static mesh Blank_canister_Glass...
+[2023.01.11-19.32.57:819][364]LogStaticMesh: Built static mesh [0.00s] /Game/Bowen/Blank_canister_Glass.Blank_canister_Glass
+[2023.01.11-19.32.57:827][364]LogFbx: Display: Triangulating static mesh Lid
+[2023.01.11-19.32.57:849][364]LogStaticMesh: Display: Building static mesh Blank_canister_Lid...
+[2023.01.11-19.32.57:864][364]LogStaticMesh: Built static mesh [0.02s] /Game/Bowen/Blank_canister_Lid.Blank_canister_Lid
+[2023.01.11-19.32.57:879][364]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.11-19.32.57:964][364]LogAutomationController: Ignoring very large delta of 6.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.33.02:907][645]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.33.02:911][645]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.33.04:862][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.11-19.33.06:119][760]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.11-19.33.06:129][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.11-19.33.06:135][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.11-19.33.06:140][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.01.11-19.33.07:009][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.01.11-19.33.08:237][810]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.11-19.33.08:249][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.11-19.33.08:255][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.11-19.33.08:260][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.01.11-19.34.06:692][187]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/xj577/OneDrive/Desktop/Death room/empty health.fbx)
+[2023.01.11-19.34.06:699][187]LogFbx: Loading FBX Scene from ../../../../../../Users/xj577/OneDrive/Desktop/Death room/empty health.fbx
+[2023.01.11-19.34.06:703][187]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.11-19.34.08:063][187]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.11-19.34.08:076][187]LogFbx: Display: Triangulating static mesh Blank_health
+[2023.01.11-19.34.08:102][187]LogStaticMesh: Display: Building static mesh empty_health...
+[2023.01.11-19.34.08:119][187]LogStaticMesh: Built static mesh [0.02s] /Game/Bowen/empty_health.empty_health
+[2023.01.11-19.34.08:126][187]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.11-19.34.08:224][187]LogAutomationController: Ignoring very large delta of 5.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.11-19.34.10:284][298]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.34.10:288][298]LogSlate: Window 'Message Log' being destroyed
+[2023.01.11-19.34.38:987][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.01.11-19.34.39:114][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowen/empty_health" FILE="../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/empty_health.uasset" SILENT=true
+[2023.01.11-19.34.39:121][940]LogSavePackage: Moving output files for package: /Game/Bowen/empty_health
+[2023.01.11-19.34.39:121][940]LogSavePackage: Moving '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Saved/empty_health317B38A6465184FFFF9436A6B11B9265.tmp' to '../../../../../../Users/xj577/OneDrive/Desktop/Death room/M10Project/NokiaHell/Content/Bowen/empty_health.uasset'
+[2023.01.11-19.34.39:131][940]AssetCheck: New page: Asset Save: empty_health
+[2023.01.11-19.34.39:131][940]LogContentValidation: Display: Validating StaticMesh /Game/Bowen/empty_health.empty_health
