@@ -2,3 +2,7 @@
 *.log
 *.ini
 *.log
+*.log
+NokiaHell/Saved/Config/WindowsEditor/Engine.ini
+NokiaHell/Intermediate/CachedAssetRegistry.bin
+NokiaHell/Saved/Logs/NokiaHell.log
