@@ -13500,3 +13500,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.20-21.26.13:130][397]LogPlayLevel: Display: Destroying online subsystem :Context_87
 [2023.01.20-21.26.14:740][421]LogSlate: Window 'Message Log' being destroyed
 [2023.01.20-21.26.14:818][421]LogSlate: Window 'Message Log' being destroyed
+[2023.01.20-21.28.09:773][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.01.20-21.28.11:385][903]LogSlate: Window 'Save Content' being destroyed
+[2023.01.20-21.28.11:459][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="C:/Users/Bowen/Desktop/M10Project/NokiaHell/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.20-21.28.11:504][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.20-21.28.11:549][903]LogSavePackage: Moving output files for package: /Game/Game
+[2023.01.20-21.28.11:550][903]LogSavePackage: Moving 'C:/Users/Bowen/Desktop/M10Project/NokiaHell/Saved/Game717F3B784B852FDE8E677AA90C15AB0D.tmp' to 'C:/Users/Bowen/Desktop/M10Project/NokiaHell/Content/Game.umap'
+[2023.01.20-21.28.11:558][903]LogFileHelpers: No new changes to save!
+[2023.01.20-21.28.11:558][903]LogFileHelpers: Saving map 'Game' took 0.099
+[2023.01.20-21.28.17:158][903]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.20-21.28.17:185][903]AssetCheck: New page: Asset Save: Game
+[2023.01.20-21.28.17:185][903]LogContentValidation: Display: Validating World /Game/Game.Game
+[2023.01.20-21.28.17:195][903]LogAutomationController: Ignoring very large delta of 7.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
